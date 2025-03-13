@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="63a6878d-749e-417d-a9c6-434f730d9314" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Bài tập 1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập 1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập 1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập 1/baiTap1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập 1/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập 1/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DoYouLoveMe.html" beforeDir="false" afterPath="$PROJECT_DIR$/DoYouLoveMe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baiTinhNgay.html" beforeDir="false" afterPath="$PROJECT_DIR$/baiTinhNgay.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/good-fast-cheap.html" beforeDir="false" afterPath="$PROJECT_DIR$/good-fast-cheap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mayTinhDonGian.html" beforeDir="false" afterPath="$PROJECT_DIR$/mayTinhDonGian.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thucHanh2.html" beforeDir="false" afterPath="$PROJECT_DIR$/thucHanh2.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Bài tập 1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2uCr0vOqZltmxHRtQSlsGOFqPso" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "disable.download.node.interpreter.editor.notification": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Bai9/baiTapCauTrucDieuKien1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.25659.40" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63a6878d-749e-417d-a9c6-434f730d9314" name="Changes" comment="" />
+      <created>1741763177362</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741763177362</updated>
+      <workItem from="1741763178492" duration="4218000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
